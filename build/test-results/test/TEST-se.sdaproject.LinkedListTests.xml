@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.sdaproject.LinkedListTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-09T13:42:16" hostname="SDA-28-mbpro" time="0.017">
+  <properties/>
+  <testcase name="search()" classname="se.sdaproject.LinkedListTests" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
